@@ -1,0 +1,27 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Atlas Grotesk', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.text-blue-500 {
+  color: #0061fe;
+}
+
+.bg-blue-600 {
+  background-color: #0061fe;
+}
+
+.text-blue-600 {
+  color: #0061fe;
+}
+
+.bg-orange-600 {
+  background-color: #f7b73c;
+}
